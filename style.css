@@ -1,4 +1,4 @@
-body{
+/* body{
 font-family: 'Poppins', sans-serif;
 }
 .hubungikami{
@@ -15,6 +15,16 @@ font-family: 'Poppins', sans-serif;
 }
 .hero p{
     padding-top: 24px ;
+}
+.navrespon{
+    
+}
+.navbar-nav{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.nav-item{
+    margin-left:32px;
 }
 .mulai{
     width: 135px;
@@ -55,3 +65,6 @@ font-family: 'Poppins', sans-serif;
     height: 358px;
     border-radius: 50%;
 }
+.merasa{
+    margin-left: 160px;
+} */

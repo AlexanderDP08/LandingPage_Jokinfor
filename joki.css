@@ -1,0 +1,22 @@
+.button1 {
+  background-color: #24026b;
+  width: 160px;
+  height: 56px;
+}
+.col1 {
+  width: 50%;
+}
+.col2 {
+  width: 50%;
+}
+.group1 .button2 {
+  background-color: #24026b;
+  margin-right: 15px;
+}
+.group1 button {
+  width: 135px;
+  height: 56px;
+}
+.lingkaran {
+  background-color: #fc66ff;
+}

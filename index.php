@@ -13,14 +13,14 @@
   </head>
   <body>
   <nav class="navbar navbar-expand-lg bg-light ">
-  <div class="container">
+  <div class="container navrespon">
     <a class="navbar-brand" href="#"><img src="./brunch-removebg-preview 1.png" alt="" style="width:150px"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
-      <ul class="navbar-nav mx-auto">
-        <li class="nav-item">
+      <ul class="navbar-nav ">
+        <li class="nav-item ">
           <a class="nav-link active" aria-current="page" href="#">Keuntungan</a>
         </li>
         <li class="nav-item">
@@ -30,22 +30,21 @@
           <a class="nav-link" href="#">Testimoni</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Produk Kami</a>
+          <a class="nav-link" href="#">Produk</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Apa yang kami sediakan?</a>
+          <a class="nav-link" href="#">Cara Kerja?</a>
         </li>
         
       </ul>
       <button class="hubungikami">Hubungi Kami</button>
     </div>
   </div>
-
 </nav>
 <div class="container-fluid">
     <div class="container">
-        <div class="row hero mx-auto">
-            <div class="col-6 merasa ">
+        <div class="row hero ">
+            <div class="col-6 merasa">
            <h1>Merasa Kesulitan dan Gak Punya Waktu?<br>
                 Jokiin aja!</h1> 
             <p>Jokiin semua tugas website, landing page, maupun design ke kita. <br> Dijamin hasil puas, kamu pun senang.</p>
@@ -80,6 +79,13 @@
     </div>
  
   
+</div>
+<div class="container-fluid">
+  <div class="container">
+    <div class="row">
+      <img src="" alt="">
+    </div>
+  </div>
 </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
   </body>
