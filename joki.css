@@ -1,3 +1,6 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
 .button1 {
   background-color: #24026b;
   width: 160px;
@@ -16,4 +19,16 @@
 .group1 button {
   width: 135px;
   height: 56px;
+}
+.produk-kami .row {
+  margin-left: 20px;
+}
+.frame-produk {
+  margin-left: 30px;
+}
+.layanan2 {
+  margin-left: 150px;
+}
+input {
+  width: 100%;
 }
